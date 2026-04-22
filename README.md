@@ -31,7 +31,7 @@ Demonstrar na prática o fluxo:
 ## 📄 Estrutura do Projeto
 
 ```
-app.js
+cache.js
 README.md
 ```
 
@@ -67,7 +67,7 @@ touch app.js
 ### 3. Execute o projeto
 
 ```bash
-node app.js
+node cache.js
 ```
 
 ---
